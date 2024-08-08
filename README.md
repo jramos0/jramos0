@@ -1,10 +1,8 @@
-<h2 align="center">Hi 👋!  I'm a  junior developer</h2>
+<h2 align="left">Hi 👋!  I'm a  junior developer</h2>
 
 ###
 
-<br clear="both">
-
-<div align="center">
+<div align="left">
   <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE0bXRtejk0YXZtYzAxaG0wMXJlMGg4OHgwa3ZxaThjeXA4MW5mMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IMcIC9M4zQkFO/giphy.webp"  />
 </div>
 
@@ -14,7 +12,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -36,7 +34,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
@@ -54,7 +52,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
@@ -69,8 +67,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
 </div>
-
-
 
 ###
 
